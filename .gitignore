@@ -1,0 +1,24 @@
+# Project exclude paths
+/0213_azkaban/target/
+/0213_datawarehouse/target/
+/0213_flink/target/
+/0213_flume/target/
+/0213_hbase/target/
+/0213_hbase_weibo/target/
+/0213_hdfsClient/target/
+/0213_hive/target/
+/0213_hive_gulivideo_etl/target/
+/0213_kafka/target/
+/0213_mapReduce/target/
+/0213_phoenix/target/
+/0213_scala212/scala/target/
+/0213_scala212/spark/target/
+/0213_warehouse_flumeInterceptor/target/
+/0213_zookeeperClient/target/
+/day27/target/
+/HDFS-0508/target/
+/hello/target/
+/hrsystemManager/target/
+/log-collector/target/
+/scala_ter/target/
+/web/target/
